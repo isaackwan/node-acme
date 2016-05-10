@@ -33,6 +33,7 @@
     "native-dns": "^0.7.0",
     "node-jose": "^0.6",
     "npmlog": "^2.0",
+    "parse-domain": "^0.2.1",
     "request-debug": "^0.2",
     "request-promise": "https://github.com/hildjj/request-promise.git#cls-depend"
   },
